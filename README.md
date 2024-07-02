@@ -18,4 +18,4 @@ git clone --recursive https://github.com/LaCocoRoco/esp-module-cu.git
 
 ![function_graphic](/images/esp-module-cu.png)
 
-![function_graphic](/images/esp-module-cu-photo.png)
+![function_graphic](/images/esp-module-cu-photo.jpg)
